@@ -6,8 +6,6 @@
   "main": "src/index.tsx",
   "dependencies": {
     "@redux-saga/core": "1.1.3",
-    "@syncfusion/ej2-react-buttons": "20.1.55",
-    "@syncfusion/ej2-react-grids": "20.1.55",
     "@types/redux-saga": "0.10.5",
     "react": "18.0.0",
     "react-dom": "18.0.0",
@@ -15,7 +13,6 @@
     "react-scripts": "4.0.3",
     "redux-saga": "1.1.3",
     "redux-saga-effects": "1.1.0",
-    "ts-error-formatter": "0.2.0"
   },
   "devDependencies": {
     "@types/react": "17.0.20",
